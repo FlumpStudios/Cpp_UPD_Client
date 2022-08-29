@@ -1,0 +1,5 @@
+C:/Users/flump/source/repos/UdpClient/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/flump/source/repos/UdpClient/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/flump/source/repos/UdpClient/out/build/x64-debug/UdpClient/CMakeFiles/UdpClient.dir
+C:/Users/flump/source/repos/UdpClient/out/build/x64-debug/UdpClient/CMakeFiles/edit_cache.dir
+C:/Users/flump/source/repos/UdpClient/out/build/x64-debug/UdpClient/CMakeFiles/rebuild_cache.dir

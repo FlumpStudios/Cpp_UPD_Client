@@ -1,0 +1,21 @@
+# ninja log v5
+0	679	6835132232055945	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+679	822	6835132233253466	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+1	639	6835132662558685	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+640	732	6835132663254459	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+1	678	6835133608852583	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+679	782	6835133609655781	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	713	6835134443693950	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+714	815	6835134444521723	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	718	6835134673696304	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+718	818	6835134674539170	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	720	6835134843594728	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+720	827	6835134844452445	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	643	6835135007681134	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+644	748	6835135008548824	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	647	6835143414222656	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+648	745	6835143414921343	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+1	773	6835146105567633	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+774	889	6835146106515106	UdpClient/UdpClient.exe	5f8fd4fa043805e2
+0	779	6835147058002594	UdpClient/CMakeFiles/UdpClient.dir/UdpClient.cpp.obj	28b9a7c80f6d5670
+780	886	6835147058889985	UdpClient/UdpClient.exe	5f8fd4fa043805e2
